@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-app/static/css/main.7b85bf56.chunk.css",
+    "main.js": "/react-app/static/js/main.970f0d9d.chunk.js",
+    "main.js.map": "/react-app/static/js/main.970f0d9d.chunk.js.map",
+    "runtime~main.js": "/react-app/static/js/runtime~main.ffec197d.js",
+    "runtime~main.js.map": "/react-app/static/js/runtime~main.ffec197d.js.map",
+    "static/css/2.92b250af.chunk.css": "/react-app/static/css/2.92b250af.chunk.css",
+    "static/js/2.ce91cfa5.chunk.js": "/react-app/static/js/2.ce91cfa5.chunk.js",
+    "static/js/2.ce91cfa5.chunk.js.map": "/react-app/static/js/2.ce91cfa5.chunk.js.map",
+    "index.html": "/react-app/index.html",
+    "precache-manifest.e61f70709970a442c8cdbe8454980c16.js": "/react-app/precache-manifest.e61f70709970a442c8cdbe8454980c16.js",
+    "service-worker.js": "/react-app/service-worker.js",
+    "static/css/2.92b250af.chunk.css.map": "/react-app/static/css/2.92b250af.chunk.css.map",
+    "static/css/main.7b85bf56.chunk.css.map": "/react-app/static/css/main.7b85bf56.chunk.css.map",
+    "static/media/image.css": "/react-app/static/media/bg2.daf2a716.jpg",
+    "static/media/slick-theme.css": "/react-app/static/media/slick.f97e3bbf.svg",
+    "static/media/slider1.png": "/react-app/static/media/slider1.7bafe2b8.png",
+    "static/media/slider2.png": "/react-app/static/media/slider2.302256e2.png",
+    "static/media/slider4.jpg": "/react-app/static/media/slider4.35699303.jpg",
+    "static/media/slider7.png": "/react-app/static/media/slider7.83e73464.png"
+  }
+}
